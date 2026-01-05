@@ -21,7 +21,7 @@ const render = () => {
         
         <div class="content">
           <div class="intro-section">
-            <p class="large-text">Hi, I'm Sujan—</p>
+            <p class="large-text">Hi, I'm Sujan</p>
             <p>I'm currently pursuing my Master's in Computer Science at Boise State University in Idaho, where I'm deepening my expertise in software engineering and computer science fundamentals.</p>
           </div>
         </div>
